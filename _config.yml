@@ -8,10 +8,10 @@ url: http://LeeJeongWook.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: " "
+baseurl: '/jekyll-clean-dark'
 
 author: Pavel Makhov
-copyright: 2015-2018
+copyright: 2021-
 
 share:
   facebook: true
